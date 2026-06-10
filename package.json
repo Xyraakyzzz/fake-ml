@@ -1,0 +1,22 @@
+{
+  "name": "x-fake-ml",
+  "version": "1.1.7",
+  "description": "Fake Mobile Legends lobby card generator",
+  "main": "start.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "mobile-legends",
+    "fake-ml",
+    "card-generator",
+    "canvas",
+    "telegram-bot",
+    "whatsapp-bot"
+  ],
+  "author": "Kyxzz",
+  "license": "MIT",
+  "dependencies": {
+    "skia-canvas": "^3.0.8"
+  }
+}
